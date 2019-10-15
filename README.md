@@ -31,3 +31,5 @@ Sometimes the code (BOW, BOV) is used to note the flight number, or some kind of
 
 Fun fact:
 In some of the photos, what looks like topographical lines can be seen on the landscape.  These are plow lines that were done by the Soil Conservation Service in the 1920s to help mitigate soil movement due to overuse (the "Dust Bowl") or lack of vegetation in general to hold the soil in place.  These lines can still be seen in some undeveloped areas (notably east of Fountain, CO) in modern satellite imagery.  
+
+Items are held by the Jerry Crail Johnson Earth Sciences & Map Library at the University of Colorado Boulder.
