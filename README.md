@@ -7,6 +7,8 @@ Aerial photographs dramatically portray the changing landscape of Colorado: a mo
 ## Metadata
 
 ## Resources
+Map Index for the Collection:
+https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848139ce0e9176da9b7e8
 
 USGS topoView: 
 https://ngmdb.usgs.gov/maps/TopoView/viewer/#12/40.1452/-105.6293
