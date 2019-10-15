@@ -4,11 +4,12 @@ Aerial Photographs of Colorado collection metadata from the University of Colora
 
 Aerial photographs dramatically portray the changing landscape of Colorado: a mountain valley can be seen where there is now a reservoir; changes in the vegetation and ground cover can be traced over the years, and the growth of towns and cities documented. This collection provides access to more than 2,800 aerial photographs of Colorado taken by the U.S. Forest Service, Soil Conservation Service, and Agricultural Adjustment Administration from 1936 to 1947. Each photograph is identified by a project or county code followed by the roll and frame numbers assigned by the photographing agency.
 
+Map Index for the Collection:
+https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848139ce0e9176da9b7e8
+
 ## Metadata
 
 ## Resources
-Map Index for the Collection:
-https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848139ce0e9176da9b7e8
 
 USGS topoView: 
 https://ngmdb.usgs.gov/maps/TopoView/viewer/#12/40.1452/-105.6293
