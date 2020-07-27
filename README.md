@@ -18,7 +18,7 @@ Geographic Names Information System (GNIS):
 https://geonames.usgs.gov/
 
 Colorado State Land Board:
-https://gis.co.gov/trustlands/
+https://gis.colorado.gov/trustlands/
 
 ## Notes
 Sequence numbers on the images:
