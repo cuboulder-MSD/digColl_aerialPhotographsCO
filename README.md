@@ -11,50 +11,50 @@ https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848
 
 Metadata fields for the Aerial Photographs of Colorado collection:
 
-# Project-Roll-Frame
+### Project-Roll-Frame
 The photograph sequence number. The project designation (2-3 letter code); film roll number; frame number.
 
-# Date
+### Date
 Dates are transcribed from the photograph, and reformatted to conform to ISO standards 
 Datasets prior to 2020-07 will have the dates transcribed verbatim from the photographs, usually in MM/DD/YYYY format.
 
-# Publisher
+### Publisher
 Publisher of the photographs. This is the agency that requisitioned the flights for a particular area. Derived from stamps on the back of the runs of photographs.
 
-# Scale
+### Scale
 Scale of the photographs. Generally 1:20,000.
 
-# sortOrder
+### sortOrder
 Older field no longer in use.
 
-# County
+### County
 Counties the image covers. If multiple counties are pictured in the photograph, they are listed in repeated County columns.
 
-# State
+### State
 States the image covers. If multiple states are pictured in the photograph, they are listed in repeated State columns.
 
-# 1:24000 USGS Topo Quad Name
+### 1:24000 USGS Topo Quad Name
 The 1:240000 scale topographic map that the centerpoint sits inside. 
 
-# 1:24000 USGS Topo Quad Name Authority
+### 1:24000 USGS Topo Quad Name Authority
 Origin of the map listed, generally USGS Geographic Names Information System (GNIS).
 
-# Landmark
+### Landmark
 Derived from the GNIS list of landmarks. Natural or permanent features are prioritized. Some non-permanent feature classes, mostly buildings, locales, or census areas are not used except under special circumstances. 
 
-# Landmark Authority
+### Landmark Authority
 Origin of the Landmark listed, generally USGS Geographic Names Information System (GNIS).
 
-# Center Point Latitude
+### Center Point Latitude
 Latitude of the center point of the photograph.
 
-# Center Point Longitude
+### Center Point Longitude
 Longitude of the center point of the photograph.
 
-# Physical Item Location
+### Physical Item Location
 Location of the physical photograph where it is stored at the University of Colorado Boulder.
 
-# Rights
+### Rights
 After 2020-07: statements are from Rightsstatements.org. These are in the same spirit as the earlier statements.
 
 
