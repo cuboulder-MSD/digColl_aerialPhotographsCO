@@ -15,7 +15,7 @@ Metadata fields for the Aerial Photographs of Colorado collection:
 The photograph sequence number. The project designation (2-3 letter code); film roll number; frame number.
 
 ### Date
-Dates are transcribed from the photograph, and reformatted to conform to ISO standards 
+Dates are transcribed from the photograph, and reformatted to conform to ISO standards. 
 Datasets prior to 2020-07 will have the dates transcribed verbatim from the photographs, usually in MM/DD/YYYY format.
 
 ### Publisher
@@ -46,16 +46,16 @@ Derived from the GNIS list of landmarks. Natural or permanent features are prior
 Origin of the Landmark listed, generally USGS Geographic Names Information System (GNIS).
 
 ### Center Point Latitude
-Latitude of the center point of the photograph.
+Latitude of the center point of the photograph, established by visual inspection of the resource and comparing it to the topoView map interface provided by the USGS.
 
 ### Center Point Longitude
-Longitude of the center point of the photograph.
+Longitude of the center point of the photograph, established by visual inspection of the resource and comparing it to the topoView map interface provided by the USGS.
 
 ### Physical Item Location
 Location of the physical photograph where it is stored at the University of Colorado Boulder.
 
 ### Rights
-After 2020-07: statements are from Rightsstatements.org. These are in the same spirit as the earlier statements.
+Rights or access information for the use of the photographs. 
 
 
 ## Resources
