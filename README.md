@@ -7,6 +7,10 @@ Aerial photographs dramatically portray the changing landscape of Colorado: a mo
 Map Index for the Collection:
 https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848139ce0e9176da9b7e8
 
+
+Permanent address to digital collection: [https://doi.org/10.25931/44A5-ER13](https://doi.org/10.25931/44A5-ER13).<br /> 
+Please use the same link when sharing or citing the collection.
+
 ## Metadata
 
 Metadata fields for the Aerial Photographs of Colorado collection:
