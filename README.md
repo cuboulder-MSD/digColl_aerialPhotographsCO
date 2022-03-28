@@ -16,17 +16,17 @@ Please use the same link when sharing or citing the collection.
 Metadata fields for the Aerial Photographs of Colorado collection:
 
 ### Project-Roll-Frame
-The photograph sequence number. The project designation (2-3 letter code); film roll number; frame number.
+The photograph sequence number. The project designation (2-3 letter code); film roll number; frame number. Some photo runs will only have a frame number.
 
 ### Date
 Dates are transcribed from the photograph, and reformatted to conform to ISO standards. 
-Datasets prior to 2020-07 will have the dates transcribed verbatim from the photographs, usually in MM/DD/YYYY format.
+Datasets prior to 2020-07 will have the dates transcribed verbatim from the photographs, usually in MM/DD/YYYY format. Ongoing project to reformat to ISO standard format.
 
 ### Publisher
-Publisher of the photographs. This is the agency that requisitioned the flights for a particular area. Derived from stamps on the back of the runs of photographs.
+Publisher of the photographs. This is the agency that requisitioned the flights for a particular area. Derived from stamps on the back of the runs of photographs. Not every photograph in a run may have the stamp, but many in the sequence will have the same stamp. Also indicated on the front of the photographs in the sequence where Scale is also marked. 
 
 ### Scale
-Scale of the photographs. Generally 1:20,000.
+Scale of the photographs. Generally 1:20,000, as marked on the photographs. Not every photo will have this information, but a few in the run will. 
 
 ### sortOrder
 Older field no longer in use.
@@ -41,19 +41,19 @@ States the image covers. If multiple states are pictured in the photograph, they
 The 1:240000 scale topographic map that the centerpoint sits inside. 
 
 ### 1:24000 USGS Topo Quad Name Authority
-Origin of the map listed, generally USGS Geographic Names Information System (GNIS).
+Origin of the USGS Topo Quad Name, generally USGS Geographic Names Information System (GNIS).
 
 ### Landmark
-Derived from the GNIS list of landmarks. Natural or permanent features are prioritized. Some non-permanent feature classes, mostly buildings, locales, or census areas are not used except under special circumstances. 
+Derived from the GNIS list of landmarks, including historical. Natural or permanent features are prioritized. Some non-permanent feature classes, mostly buildings, locales, or census areas are not used except under special circumstances where a natural feature is outside a reasonable area, as established by the cataloger.
 
 ### Landmark Authority
 Origin of the Landmark listed, generally USGS Geographic Names Information System (GNIS).
 
 ### Center Point Latitude
-Latitude of the center point of the photograph, established by visual inspection of the resource and comparing it to the topoView map interface provided by the USGS.
+Latitude of the center point of the photograph, established by visual inspection of the resource and comparing it to the topoView map interface provided by the USGS. DMS coordinates are used. 
 
 ### Center Point Longitude
-Longitude of the center point of the photograph, established by visual inspection of the resource and comparing it to the topoView map interface provided by the USGS.
+Longitude of the center point of the photograph, established by visual inspection of the resource and comparing it to the topoView map interface provided by the USGS. DMS coordinates are used.
 
 ### Physical Item Location
 Location of the physical photograph where it is stored at the University of Colorado Boulder.
@@ -75,12 +75,12 @@ https://gis.colorado.gov/trustlands/
 
 ## Notes
 Project-Roll-Frame numbers on the images:
-The older (1930s, 1940s) images typically have a handwritten date in one corner, and a code in the other corner.  The code can denote multiple things:
+The older (1930s, 1940s) images typically have a handwritten or stamped date in one corner, and a code in the other corner.  The code can denote multiple things.
 
 County: the letter code can possibly designate a county.
 https://www.fsa.usda.gov/Internet/FSA_File/catalogpdf.pdf  - list of counties and projects from the FDA - county codes are in parentheses next to the county name.  
 The county code was used for the Colorado Springs Aerial Photographs - YL denotes El Paso County, and the series number and sequence is stamped next to it.  
-Sometimes the code (BOW, BOV) is used to note the flight number, or some kind of information about the company doing the flight.  In this case, some digging through archived government records may be necessary, as direct references to precisely what this number means are lacking online.  
+Sometimes the code (BOW, BOV) is used to note the flight number, or some kind of information about the company doing the flight.  In this case, some digging through archived government records may be necessary, as direct references to precisely what this number means are difficult to ascertain.
 
 Fun fact:
 In some of the photos, what looks like topographical lines can be seen on the landscape.  These are plow lines that were done by the Soil Conservation Service in the 1920s to help mitigate soil movement due to overuse (the "Dust Bowl") or lack of vegetation in general to hold the soil in place.  These lines can still be seen in some undeveloped areas (notably east of Fountain, CO) in modern satellite imagery.  
