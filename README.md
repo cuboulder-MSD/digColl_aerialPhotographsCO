@@ -63,6 +63,8 @@ Rights or access information for the use of the photographs.
 
 
 ## Resources
+USGS EarthExplorer:
+https://earthexplorer.usgs.gov/
 
 USGS topoView: 
 https://ngmdb.usgs.gov/maps/TopoView/viewer/#12/40.1452/-105.6293
@@ -88,3 +90,6 @@ In some of the photos, what looks like topographical lines can be seen on the la
 Items are held by the Jerry Crail Johnson Earth Sciences & Map Library at the University of Colorado Boulder.
 
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
+
+## Versions
+Aerial_Photographs_of_Colorado_20260702.csv contains metadata for all counties in the collection added up to 2026-07-02 (including newly added Jackson County).
